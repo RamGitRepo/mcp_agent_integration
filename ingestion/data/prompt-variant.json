@@ -1,0 +1,11 @@
+[
+    {
+      "prompt": "who is Ramanathan?",
+      "expected": "Ramanathan Perumal is an carpenter in the UK and 5years of experience and hardworker."
+    },
+    {
+      "prompt": "Who lives in kings langley?",
+      "expected": "Ramanathan Perumal lives in Kings Langley, UK.."
+    }
+  ]
+  

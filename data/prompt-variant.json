@@ -1,0 +1,13 @@
+[
+    {
+      "topic": "Ramanathan CV",
+      "prompt": "who is Ramanathan?",
+      "expected": "Ramanathan Perumal is an experienced AI and Data Engineer with over 10 years of expertise in software development, data engineering, and artificial intelligence. He specializes in building scalable data pipelines, optimizing cloud-native architectures, and integrating AI solutions to enhance enterprise systems. He has a strong background in Java-based enterprise systems, cloud technologies, and AI applications."
+    },
+    {
+      "topic": "Ramanathan lives",
+      "prompt": "Who lives in kings langley?",
+      "expected": "Ramanathan Perumal lives in Kings Langley, UK.."
+    }
+  ]
+  

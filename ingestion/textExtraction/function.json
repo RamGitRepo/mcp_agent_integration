@@ -1,0 +1,12 @@
+{
+  "scriptFile": "pre-processing.py",
+  "bindings": [
+    {
+      "name": "blob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "contractdata/{name}",
+      "connection": "AzureWebJobsStorage"
+    }
+  ]
+} 
